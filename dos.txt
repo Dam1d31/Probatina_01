@@ -1,6 +1,2 @@
 22222222222222222222222222222222222222222
-<<<<<<< HEAD
-cambio en master
-=======
-cambio en desarrollo
->>>>>>> desarrollo
+eqwehkqwhekjhqwjekhwqqwe
